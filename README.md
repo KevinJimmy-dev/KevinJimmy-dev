@@ -1,6 +1,6 @@
 <h1> BODIA! Eu sou o Kevin Jimmy 😁 </h1>
 
-<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
+<h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
 
 - 👨‍💻 Em busca de se tornar um programador...
 - 🤓 3º ano do Ensino Médio...
@@ -9,12 +9,14 @@
 ##
 
 <div>
+  <h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Git Status </h2>
   <a href="https://github.com/kevinjimmy-dev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kevinjimmy-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjimmy-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
+  <h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Linguagens</h2>
   <img align="center" alt="Kevin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kevin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
