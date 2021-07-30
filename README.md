@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1> Olá! Eu sou o Kevin Jimmy 😁 </h1>
 
-<!--
-**KevinJimmy-dev/KevinJimmy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
 
-Here are some ideas to get you started:
+- 👨‍💻 Em busca de se tornar um programador...
+- 🤓 3º ano do Ensino Médio...
+- 💻 Cursando TI para Web...
+- 🧠 Em constante evolução: HTML5, CSS3 e JS...
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/kevinjimmy-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinjimmy-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjimmy-dev&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Kevin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Kevin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+##
+  
+<div>
+  <a href= "https://www.instagram.com/kevin_jim.my/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href= "https://www.linkedin.com/in/kevin-jimmy-5b4247211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kevinjimmy.profissional@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+</div>
+
