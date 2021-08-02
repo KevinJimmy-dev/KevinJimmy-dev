@@ -16,7 +16,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> </h2>
+  <h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Linguagens de Marcação e Programação</h2>
   <img align="center" alt="Kevin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Kevin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
