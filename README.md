@@ -2,7 +2,7 @@
 
 <h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
 
-- 👨‍💻 Em busca de me tornar um programador
+- 👨‍💻 Em busca de me tornar um Programador
 - 🤓 Ensino Médio Completo
 - 💻 Técnico em Informática para Internet
 - 🧠 Em constante evolução
@@ -21,6 +21,12 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PHP" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+</div>
+  
+<div style="display: inline_block"><br>
+  <h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Frameworks</h2>
+  <img align="center" alt="Boostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 </div>
   
 <div style="display: inline_block">
