@@ -1,6 +1,6 @@
-<h1> Opaa! Eu sou o Kevin Jimmy 😁 </h1>
+<h1> Opaa! Eu sou o Kevin Jimmy <a href="https://emoji.gg/emoji/4936-peepolove"><img src="https://emoji.gg/assets/emoji/4936-peepolove.png" width="34px" height="34px" alt="peepolove"></a> </h1>
 
-<h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Sobre mim </h2>
+<h2><a href="https://emoji.gg/emoji/5016-squirtle-cool"><img src="https://emoji.gg/assets/emoji/5016-squirtle-cool.png" width="24px" height="24px" alt="Squirtle_cool"></a> Sobre mim </h2>
 
 - 👨‍💻 Em busca de me tornar um Programador
 - 🤓 Ensino Médio Completo
@@ -9,14 +9,14 @@
 ##
 
 <div>
-  <h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Git Status </h2>
+  <h2><a href="https://emoji.gg/emoji/5016-squirtle-cool"><img src="https://emoji.gg/assets/emoji/5016-squirtle-cool.png" width="24px" height="24px" alt="Squirtle_cool"></a> Git Status </h2>
   <a href="https://github.com/kevinjimmy-dev">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kevinjimmy-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjimmy-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
-  <h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Linguagens</h2>
+  <h2><a href="https://emoji.gg/emoji/5016-squirtle-cool"><img src="https://emoji.gg/assets/emoji/5016-squirtle-cool.png" width="24px" height="24px" alt="Squirtle_cool"></a> Linguagens</h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,13 +24,13 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Frameworks</h2>
+  <h2><a href="https://emoji.gg/emoji/5016-squirtle-cool"><img src="https://emoji.gg/assets/emoji/5016-squirtle-cool.png" width="24px" height="24px" alt="Squirtle_cool"></a> Frameworks</h2>
   <img align="center" alt="Boostrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 </div>
   
 <div style="display: inline_block">
-  <h2><img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> Banco de dados</h2>
+  <h2><a href="https://emoji.gg/emoji/5016-squirtle-cool"><img src="https://emoji.gg/assets/emoji/5016-squirtle-cool.png" width="24px" height="24px" alt="Squirtle_cool"></a> Banco de dados</h2>
   <img align="center" alt="MySQL" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
 </div>
 
