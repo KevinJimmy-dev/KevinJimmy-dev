@@ -10,7 +10,6 @@
 <div>
   <h2><a href="https://emoji.gg/emoji/5016-squirtle-cool"><img src="https://emoji.gg/assets/emoji/5016-squirtle-cool.png" width="24px" height="24px" alt="Squirtle_cool"></a> Git Status </h2>
   <a href="https://github.com/kevinjimmy-dev">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kevinjimmy-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinjimmy-dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
