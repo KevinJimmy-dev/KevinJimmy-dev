@@ -2,7 +2,7 @@
 
 <h2><a href="https://emoji.gg/emoji/5016-squirtle-cool"><img src="https://emoji.gg/assets/emoji/5016-squirtle-cool.png" width="24px" height="24px" alt="Squirtle_cool"></a> Sobre mim </h2>
 
-- 👨‍💻 Desenvolvedor Back-end Junior
+- 👨‍💻 Desenvolvedor Back-end
 - 💻 Técnico em Informática para Internet
 - 🧠 Em constante evolução
 ##
